@@ -13,6 +13,5 @@ async def main() -> None:
     await fetch("https://uwm.edu.pl")
 
 
-
 if __name__ == "__main__":
     asyncio.run(main())
